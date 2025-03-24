@@ -3,7 +3,7 @@
 // @namespace    https://github.com/AdamKryach/Snapify
 // @version      2025-03-24
 // @description  Boost Snapscore
-// @author       unofficialdxnny (Danial Ahmed)
+// @author       Adam Kryach
 // @match        https://web.snapchat.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=snapchat.com
 // @grant        none
