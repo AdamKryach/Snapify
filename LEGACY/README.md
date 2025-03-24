@@ -1,11 +1,5 @@
 # Snapify
-Boost Snapchat Score While working on something else.
-
-
-## Video Tutorial
-
-
-<a href="https://www.youtube.com/watch?v=8zqsrlOX6Gw"><img src="https://user-images.githubusercontent.com/82535503/220074013-892ed57c-b435-46a5-9fc5-e2ff86e4fabc.png"></a>    
+Boost Snapchat Score While working on something else. 
 
 
 
