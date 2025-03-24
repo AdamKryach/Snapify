@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Snapify
-// @namespace    https://github.com/unofficialdxnny/Snapify
-// @version      2024-09-25
+// @namespace    https://github.com/AdamKryach/Snapify
+// @version      2025-03-24
 // @description  Boost Snapscore
 // @author       unofficialdxnny (Danial Ahmed)
 // @match        https://web.snapchat.com/
