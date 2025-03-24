@@ -11,9 +11,9 @@
       *@/ @@                  @* @@         ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝        ╚═╝
      ,@@                         &@@                                                            
           /                   @@           #1 Free Snapchat booster.
-         @@                    @%          Developed by @unofficialdxnny
+         @@                    @%          Developed by @te.bailo
        @@                       &@#        
-  %@@@*                            @@@@*   V8 | need help? Join Server : https://discord.gg/7HnSE6Jsam
+  %@@@*                            @@@@*   V8 | need help? Join Server : https://discord.gg/bCEyXKURh4
   &@@@@(                          @@@@@     
        @@@@@@@             #@@@@@@@
                @@@#@@(##@@(
